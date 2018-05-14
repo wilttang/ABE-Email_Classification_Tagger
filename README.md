@@ -6,24 +6,24 @@ ABE Email Classifier
 
 ### Libraries
 
-scikit-learn
-pandas
-numpy
-seaborn
-matplotlib
-scipy
-ipython
-jupyter (formerly ipython) notebook
-textblob
-re
-nltk
-csv
-poplib
-email
-io
-datetime
-os 
-sys
+* scikit-learn
+* pandas
+* numpy
+* seaborn
+* matplotlib
+* scipy
+* ipython
+* jupyter (formerly ipython) notebook
+* textblob
+* re
+* nltk
+* csv
+* poplib
+* email
+* io
+* datetime
+* os 
+* sys
 
 ###
 
